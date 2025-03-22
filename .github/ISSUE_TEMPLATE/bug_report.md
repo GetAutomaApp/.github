@@ -23,16 +23,11 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
 **Additional context**
 Add any other context about the problem here.
+
+**Possible solutions**
+
+<!-- If you have a possible solution to the bug, please describe it here. Include action steps that can be implemented in a future pull request -->
+<!-- Try to make it as easy as possible for the developer to fix this issue (provide links to documentation, parts of code, etc) -->
+
