@@ -1,6 +1,6 @@
 ---
 name: Refactor request
-about: Suggest a code change that improves the quality of the codebase
+about: Suggest a refactor that improves the quality of the codebase
 title: 'Refactor -> '
 labels: 'refactor'
 assignees: ''
